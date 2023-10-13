@@ -16,5 +16,12 @@ User Registration: New users can easily create an account by providing their nam
 
 Secure Authentication: The app uses Firebase Authentication to ensure the security of user credentials and sensitive information.
 
+
 Login Options: Returning users can log in using their registered email and password, providing a convenient and quick access to the app.
+
+#OUTPUT
+
+
+![Real1](https://github.com/NIYAZ04/LoginFlowApp/assets/100089696/a73b97a3-5459-4707-ab36-4318260739d3)![Real3](https://github.com/NIYAZ04/LoginFlowApp/assets/100089696/393a967f-5d23-4df9-8057-442dbd7a40a8)
+![Real2](https://github.com/NIYAZ04/LoginFlowApp/assets/100089696/1ec3f9b4-a543-4d1a-b1f1-25b975881d17)
 
